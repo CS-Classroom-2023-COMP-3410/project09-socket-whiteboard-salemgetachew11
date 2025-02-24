@@ -1,0 +1,21 @@
+{
+  "name": "whiteboard-server",
+  "version": "1.0.0",
+  "main": "public/index.html",
+  "scripts": {
+    "dev": "vite --host",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2",
+    "socket.io": "^4.8.1"
+  },
+  "devDependencies": {
+    "vite": "^6.1.1"
+  }
+}
